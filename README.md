@@ -97,6 +97,8 @@ Traditional security training often fails because it's theoretical. **Phisher** 
 
 Kindly follow the link below, copy and install the tool’s script using nano:
 
+**https://gist.github.com/techenthusiast167/c66756db54cfb26b47f6ef8abdaf3bb5**
+
 **No pip install required**! All dependencies are in Python standard library
 
 
